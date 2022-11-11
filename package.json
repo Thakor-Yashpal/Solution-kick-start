@@ -63,7 +63,7 @@
     "jsdom": "^9.2.1",
     "marked": "^0.3.17",
     "mocha": "^10.1.0",
-    "nodemon": "^1.9.1",
+    "nodemon": "^2.0.20",
     "npm-font-open-sans": "0.0.3",
     "postcss-loader": "^0.9.1",
     "precss": "^1.4.0",
