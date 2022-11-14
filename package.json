@@ -60,7 +60,7 @@
     "highlight.js": "^9.3.0",
     "history": "^3.0.0",
     "hjs-webpack": "^8.1.0",
-    "jsdom": "^9.2.1",
+    "jsdom": "^16.5.0",
     "marked": "^0.3.17",
     "mocha": "^10.1.0",
     "nodemon": "^2.0.20",
